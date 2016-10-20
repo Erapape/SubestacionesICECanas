@@ -8,12 +8,6 @@ Public Class FrmEquipos
 
     Private Sub btnNuevo_Click(sender As Object, e As EventArgs) Handles btnNuevo.Click
         LimpiarControles()
-        Dim resultado As Boolean = Insertar()
-        If resultado Then
-            MsgBox("registro almacenado")
-        Else
-            MsgBox("registro no almacenado")
-        End If
     End Sub
 
     Private Function Insertar() As Boolean
@@ -81,7 +75,7 @@ Public Class FrmEquipos
         Equipo.NuICE_Cont = Me.TxtICEControl.Text
         Equipo.NuICE_Marca = Me.TxtICEMarca.Text
         Equipo.NuICE_Rem = Me.TxtICERemota.Text
-        Equipo.Localizacion = Me.TxtLocalizacion.Text
+        Equipo.Localizacion = CInt(Me.TxtLocalizacion.Text)
         Equipo.Marca = Me.TxtMarca.Text
         Equipo.Modelo = Me.TxtModelo.Text
         Equipo.Remota = Me.TxtRemota.Text
@@ -108,5 +102,11 @@ Public Class FrmEquipos
 
     Private Sub btnActualizar_Click(sender As Object, e As EventArgs) Handles btnActualizar.Click
 
+        Dim resultado As Boolean = Insertar()
+        If resultado Then
+            MsgBox("registro almacenado")
+        Else
+            MsgBox("registro no almacenado")
+        End If
     End Sub
 End Class
