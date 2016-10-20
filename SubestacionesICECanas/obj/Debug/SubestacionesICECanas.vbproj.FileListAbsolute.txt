@@ -1,0 +1,8 @@
+c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\bin\Debug\SubestacionesICECanas.exe.config
+c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.FrmEquipos.resources
+c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.FrmInicial.resources
+c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.vbproj.GenerateResource.Cache
+c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\bin\Debug\SubestacionesICECanas.exe
+c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\bin\Debug\SubestacionesICECanas.pdb
+c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.exe
+c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.pdb
