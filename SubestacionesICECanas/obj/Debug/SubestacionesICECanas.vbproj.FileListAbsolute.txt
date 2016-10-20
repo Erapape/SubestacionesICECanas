@@ -6,3 +6,6 @@ c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\Subes
 c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\bin\Debug\SubestacionesICECanas.pdb
 c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.exe
 c:\users\ermis\documents\visual studio 2012\Projects\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.pdb
+C:\Users\Ermis\Documents\GitHub\SubestacionesICECanas\SubestacionesICECanas\bin\Debug\SubestacionesICECanas.exe.config
+C:\Users\Ermis\Documents\GitHub\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.exe
+C:\Users\Ermis\Documents\GitHub\SubestacionesICECanas\SubestacionesICECanas\obj\Debug\SubestacionesICECanas.pdb
